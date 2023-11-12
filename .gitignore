@@ -1,0 +1,10 @@
+# Compiled files
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln.docstates
+*.dll
+*.exe
