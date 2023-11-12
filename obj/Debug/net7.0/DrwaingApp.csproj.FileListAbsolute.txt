@@ -1,0 +1,14 @@
+D:\Users\SK110602\source\repos\DrwaingApp\bin\Debug\net7.0\DrwaingApp.exe
+D:\Users\SK110602\source\repos\DrwaingApp\bin\Debug\net7.0\DrwaingApp.deps.json
+D:\Users\SK110602\source\repos\DrwaingApp\bin\Debug\net7.0\DrwaingApp.runtimeconfig.json
+D:\Users\SK110602\source\repos\DrwaingApp\bin\Debug\net7.0\DrwaingApp.dll
+D:\Users\SK110602\source\repos\DrwaingApp\bin\Debug\net7.0\DrwaingApp.pdb
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.AssemblyInfoInputs.cache
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.AssemblyInfo.cs
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.csproj.CoreCompileInputs.cache
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.dll
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\refint\DrwaingApp.dll
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.pdb
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\DrwaingApp.genruntimeconfig.cache
+D:\Users\SK110602\source\repos\DrwaingApp\obj\Debug\net7.0\ref\DrwaingApp.dll
